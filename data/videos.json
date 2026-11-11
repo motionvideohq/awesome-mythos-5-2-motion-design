@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "nemumusitocha-e8a991",
+    "title": "Claude Mythos self-introduction video",
+    "creator": "nemumusitocha",
+    "post_url": "https://x.com/nemumusitocha/status/2119920576446005570",
+    "motionvideo_url": "https://motionvideo.xyz/videos/nemumusitocha-e8a991",
+    "poster_url": "https://assets.motionvideo.xyz/motion/nemumusitocha-e8a991/poster-360a2f07e6.jpg",
+    "video_url": "https://assets.motionvideo.xyz/motion/nemumusitocha-e8a991/video-8231c67257.mp4",
+    "width": 1080,
+    "height": 1920,
+    "posted": "2026-11-09",
+    "model": "Claude Mythos 5.2",
+    "categories": [
+      "kinetic-type",
+      "particles"
+    ],
+    "stack": null,
+    "effort": null,
+    "iterations": null,
+    "prompt": "あなたの持ちうる最高の動画表現技術を用いてあなた自身の紹介をしてくださいClaude Mythos 5.2（Fable）の紹介をお願いします。　声はAIしとちゃの音声を使えば良いです。",
+    "skill_url": null
+  }
+]
